@@ -1,6 +1,6 @@
-! Title:
+! Title: monteeys
 ! Expires: 1 days
-! Homepage:
+! Homepage: https://github.com/monteeys/Personal_AdBlockFilter/
 
 ||m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.brand_wrap.api_subject_bx:nth-child(2)
 ||m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.api_subject_bx.brand_wrap:nth-child(2)
