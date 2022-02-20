@@ -10,3 +10,7 @@
 
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
+
+! 나무위키
+namu.wiki###OBrZ16ebm
+namu.wiki###A41GwpMP0
