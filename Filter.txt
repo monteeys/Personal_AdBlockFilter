@@ -19,3 +19,26 @@ namu.wiki###fSkrKUW7b > article:first-child > div:nth-child(4) > div > div > div
 namu.wiki###ZM0ugbpze > article:first-child > div:nth-child(4) > div > div > div > div > div > div > div > div > div.bdSz2I8w:first-child
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9umXpCAE:first-child
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
+
+! 커스텀
+inven.co.kr###lolBody > div.commu-wrap:first-child > aside.commu-right:last-child > div.right-menu:nth-child(2)
+adsnapy.com##div.container:first-child > div.row > div.col-md-10.col-md-offset-1 > div.box-main:first-child > div.banner.askomalb79:first-child > div.attlappufej > a:nth-child(2) > img
+indosarang.com##.img-fluid
+inven.co.kr###lolBody > div.commu-wrap:first-child > section.commu-content:first-child > article:last-child > section.commu-center:last-child > div.commu-body.pcMain:last-child > div.banCmtBottomEvent:nth-child(12)
+op.gg##div.l-wrap.l-wrap--summoner:nth-child(101) > div.alert:nth-child(4) > div.alert__item
+inven.co.kr###commonpart_gamepc
+inven.co.kr###wide_ad
+inven.co.kr###commonpart_market
+inven.co.kr###commonpart_invenpc
+m.blog.naver.com###viewTypeSelector > div:first-child > a > img.fx._postImage
+gall.dcinside.com###dablewidget_xlz9Oq7Z > iframe
+ygosu.com###contain > div.bd_tophead:nth-child(10)
+m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.brand_wrap.api_subject_bx:nth-child(2)
+m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.api_subject_bx.brand_wrap:nth-child(2)
+naver.com###footer > div.footer_inner > div.banner_area:first-child
+macclub.tistory.com###main > div.area_view:first-child > div.area_article > div.article_view:nth-child(2) > div:first-child > a:first-child > img
+macclub.tistory.com###main > div.area_view:first-child > div.area_article > div.article_view:nth-child(2) > div:last-child > a:first-child > img
+gall.dcinside.com###container > section.right_content:nth-child(3) > div.rightbanner1:nth-child(6)
+inven.co.kr###lolBody > div.commu-wrap:first-child > section.commu-content:first-child > header:first-child
+op.gg###__next > div.css-97qxj7.einfil01:nth-child(5)
+op.gg###__next > div.css-97qxj7.einfil01:nth-child(7)
