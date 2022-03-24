@@ -12,13 +12,8 @@
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
 ! 나무위키
-namu.wiki###PCWv6yiEI
-namu.wiki###QxLbsM62R
-namu.wiki###fSkrKUW7b > article:first-child > div:nth-child(4) > div > div > div > div > div > div > div > div > div:nth-child(9)
-namu.wiki###fSkrKUW7b > article:first-child > div:nth-child(4) > div > div > div > div > div > div > div > div > div.v-43rj-j:first-child
-namu.wiki###ZM0ugbpze > article:first-child > div:nth-child(4) > div > div > div > div > div > div > div > div > div.bdSz2I8w:first-child
-namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9) > div > div > div > div > div > div > div > div > div.wlHv\+fls
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9umXpCAE:first-child
+namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 
 ! 커스텀
 inven.co.kr###lolBody > div.commu-wrap:first-child > aside.commu-right:last-child > div.right-menu:nth-child(2)
