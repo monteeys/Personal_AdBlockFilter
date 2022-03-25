@@ -11,12 +11,6 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! 나무위키
-namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9umXpCAE:first-child
-namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
-namu.wiki###FmortvgOP > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
-namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
-
 ! 커스텀
 inven.co.kr###lolBody > div.commu-wrap:first-child > aside.commu-right:last-child > div.right-menu:nth-child(2)
 adsnapy.com##div.container:first-child > div.row > div.col-md-10.col-md-offset-1 > div.box-main:first-child > div.banner.askomalb79:first-child > div.attlappufej > a:nth-child(2) > img
@@ -39,3 +33,9 @@ gall.dcinside.com###container > section.right_content:nth-child(3) > div.rightba
 inven.co.kr###lolBody > div.commu-wrap:first-child > section.commu-content:first-child > header:first-child
 op.gg###__next > div.css-97qxj7.einfil01:nth-child(5)
 op.gg###__next > div.css-97qxj7.einfil01:nth-child(7)
+
+! 나무위키
+namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9umXpCAE:first-child
+namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
+namu.wiki###FmortvgOP > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
+namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
