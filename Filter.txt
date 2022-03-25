@@ -14,6 +14,7 @@
 ! 나무위키
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9umXpCAE:first-child
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
+namu.wiki###FmortvgOP > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 
 ! 커스텀
 inven.co.kr###lolBody > div.commu-wrap:first-child > aside.commu-right:last-child > div.right-menu:nth-child(2)
