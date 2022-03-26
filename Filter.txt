@@ -39,3 +39,4 @@ namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###FmortvgOP > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
+namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
