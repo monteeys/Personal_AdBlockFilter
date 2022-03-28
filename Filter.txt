@@ -35,11 +35,12 @@ op.gg###__next > div.css-97qxj7.einfil01:nth-child(5)
 op.gg###__next > div.css-97qxj7.einfil01:nth-child(7)
 
 ! 나무위키
+namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+namu.wiki##.wlHv\+fls
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9umXpCAE:first-child
 namu.wiki###XKdzmPOmy > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###FmortvgOP > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
 namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9mrkZlEm:first-child
-namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
-namu.wiki##.wlHv\+fls
+namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
