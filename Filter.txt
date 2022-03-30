@@ -15,6 +15,5 @@
 namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
 namu.wiki##.wlHv+fls
 
-
 !인벤
 inven.co.kr###commonpart_market
