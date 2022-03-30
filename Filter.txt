@@ -14,6 +14,7 @@
 ! 나무위키
 namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
 namu.wiki##.wlHv+fls
+namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9mrkZlEm:first-child
 
 !인벤
 inven.co.kr###commonpart_market
