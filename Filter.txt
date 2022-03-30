@@ -18,3 +18,4 @@ namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div
 
 !인벤
 inven.co.kr###commonpart_market
+inven.co.kr###commonpart_invenpc
