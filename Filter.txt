@@ -16,6 +16,7 @@ namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wi
 namu.wiki##.wlHv+fls
 namu.wiki###eRsiJg14V > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._9mrkZlEm:first-child
 namu.wiki###QDqS5cCFc > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._4gptnA-1:first-child
+namu.wiki###aNCDFlEHs > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._24LmENA7:first-child
 
 !인벤
 inven.co.kr###commonpart_market
