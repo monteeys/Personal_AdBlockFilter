@@ -14,7 +14,6 @@
 ! 나무위키
 namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
 namu.wiki##.wlHv+fls
-namu.wiki###.wlHv+fls
 namu.wiki###aNCDFlEHs > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div._24LmENA7:first-child
 namu.wiki###aNCDFlEHs > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 
