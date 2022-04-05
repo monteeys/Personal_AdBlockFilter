@@ -24,8 +24,3 @@ namu.wiki###wd8ZpUELU > article:first-child > div:nth-child(7) > div > div > div
 namu.wiki###wd8ZpUELU > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(8)
 namu.wiki###wd8ZpUELU > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###wd8ZpUELU > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
-
-
-!인벤
-inven.co.kr###commonpart_market
-inven.co.kr###commonpart_invenpc
