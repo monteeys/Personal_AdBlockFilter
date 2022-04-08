@@ -18,3 +18,5 @@ namu.wiki##.wlHv+fls
 namu.wiki###ZMC20EkSV > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div.EZ0eWE64:first-child
 namu.wiki###ZMC20EkSV > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(9)
 namu.wiki###ZMC20EkSV > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
+namu.wiki###ZMC20EkSV > article:first-child > div._7hG2dt8G:nth-child(3)
+namu.wiki###ZMC20EkSV > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div.kWI9MoP2:first-child
