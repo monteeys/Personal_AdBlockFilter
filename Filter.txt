@@ -19,3 +19,4 @@ namu.wiki###REzWRzr4B > article:first-child > div:nth-child(7) > div > div > div
 namu.wiki###REzWRzr4B > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
 namu.wiki###REzWRzr4B > article:first-child > div._7hG2dt8G:nth-child(3)
 namu.wiki###REzWRzr4B > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div.kWI9MoP2:first-child
+namu.wiki###REzWRzr4B > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div.LhaR3-bx:first-child
