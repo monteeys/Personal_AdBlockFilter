@@ -12,4 +12,4 @@
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
 ! 나무위키
-namu.wiki###IpNyquyLV > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
+namu.wiki###ZMjvP1ukj > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
