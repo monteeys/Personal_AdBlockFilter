@@ -13,3 +13,4 @@
 
 ! 나무위키
 namu.wiki###REgpO5QZt > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
+namu.wiki###REgpO5QZt > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.\32 de86168:nth-child(11)
