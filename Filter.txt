@@ -14,3 +14,4 @@
 ! 나무위키
 namu.wiki###TGzn9mPZf > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
 namu.wiki###TGzn9mPZf > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.\32 de86168:nth-child(11)
+namu.wiki###TGzn9mPZf > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:nth-child(13)
