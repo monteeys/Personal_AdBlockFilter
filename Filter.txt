@@ -12,7 +12,7 @@
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
 ! 나무위키
-namu.wiki###A4C7qKQmq > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
-namu.wiki###A4C7qKQmq > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.\32 de86168:nth-child(11)
-namu.wiki###A4C7qKQmq > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:nth-child(13)
-namu.wiki###A4C7qKQmq > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:last-child > div:first-child > div.y0P0WNxQ > div.g6TsB\+h7:nth-child(*)
+namu.wiki###hUrpsAdmD > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div:nth-child(10)
+namu.wiki###hUrpsAdmD > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.\32 de86168:nth-child(11)
+namu.wiki###hUrpsAdmD > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:nth-child(13)
+namu.wiki###hUrpsAdmD > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:last-child > div:first-child > div.y0P0WNxQ > div.g6TsB\+h7:nth-child(*)
