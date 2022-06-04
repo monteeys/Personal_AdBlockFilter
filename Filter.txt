@@ -10,7 +10,3 @@
 
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
-
-! 나무위키
-namu.wiki###A4RkjCnU0 > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:last-child > div:first-child > div.eTMHtwGP > div._0YujidT0:nth-child(7)
-namu.wiki###A4RkjCnU0 > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:last-child > div:first-child > div.eTMHtwGP > div._0YujidT0:nth-child(*)
