@@ -13,5 +13,6 @@
 
 ! 나무위키
 namu.wiki##.glwga\+ik
-namu.wiki##.wlKiMCY4
 namu.wiki##.TBnZZQyP
+-------------------------------------------------
+namu.wiki##.wlKiMCY4
