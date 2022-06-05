@@ -11,9 +11,9 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! 나무위키
+! 나무위키_
 namu.wiki##.glwga\+ik
-
+! 나무위키_파워링크
 namu.wiki##._2fkwiBHC
 namu.wiki##.O88TroH3
 namu.wiki##.v855VHz0, ._9pkOHc\+z, .sWje1HLw
