@@ -11,6 +11,6 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! 나무위키_
+! 나무위키
 namu.wiki##.glwga\+ik
 namu.wiki##.wlKiMCY4
