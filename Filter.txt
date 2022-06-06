@@ -11,6 +11,11 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
+! 나무위키
+namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>")
+namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount")
+namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
+
 ! 나무위키 상단 빈 공간
 namu.wiki##.glwga\+ik
 namu.wiki##.TBnZZQyP
