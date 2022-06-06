@@ -20,7 +20,9 @@ namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc
 namu.wiki##.glwga\+ik
 namu.wiki##.TBnZZQyP
 namu.wiki##.qIPRt6Y3
+namu.wiki##.QIiJcEtR
 
 ! 나무위키 파워링크
 namu.wiki##.wlKiMCY4
 namu.wiki##._9qRHXEYi
+namu.wiki##.H\+KMjP18
