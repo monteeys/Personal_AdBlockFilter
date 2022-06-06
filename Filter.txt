@@ -30,3 +30,4 @@ namu.wiki##._9qRHXEYi
 namu.wiki##.H\+KMjP18
 namu.wiki##.YQ6zUFCN
 namu.wiki##.EUcexBU\+
+namu.wiki###E8tVmrN7I > article:first-child > div:nth-child(7) > div > div > div > div > div > div > div > div > div:nth-child(5) > div > div > div > div > div > div > div > div > div > div.d0d3075a:last-child > div:first-child > div.CssvKznK > div.EUcexBU\+
