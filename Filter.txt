@@ -18,3 +18,5 @@ namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc
 namu.wiki##.TkB9r8U8
 namu.wiki##.eDtecGlO
 namu.wiki##.y7MyEK4X
+namu.wiki##.ERmJ-VtC
+namu.wiki##.fwSv-EKD
