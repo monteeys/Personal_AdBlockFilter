@@ -17,22 +17,7 @@ namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount")
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
 
 ! 나무위키 상단 빈 공간
-namu.wiki##.glwga\+ik
-namu.wiki##.TBnZZQyP
-namu.wiki##.qIPRt6Y3
-namu.wiki##.QIiJcEtR
-namu.wiki##.FLZ9\+aZl
-namu.wiki##.gptZsbWj
-namu.wiki##.k3OUaCIX
-namu.wiki##.yRFSqcyS
-namu.wiki##.OTrwrn-O
+namu.wiki##.WXwF99Jr
 
 ! 나무위키 파워링크
-namu.wiki##.wlKiMCY4
-namu.wiki##._9qRHXEYi
-namu.wiki##.H\+KMjP18
-namu.wiki##.YQ6zUFCN
-namu.wiki##.EUcexBU\+
-namu.wiki##.e9MC\+6My
-namu.wiki##.Lao2ZQXl
-namu.wiki##._2cv5YL1Y
+namu.wiki##.MGIWtNnJ
