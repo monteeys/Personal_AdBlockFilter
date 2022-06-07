@@ -15,6 +15,5 @@
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "a.<anonymous>")
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise", "mount")
 namu.wiki#@%#//[remove]("abort-on-stack-trace", "Promise.prototype.then", "a.doc")
-
 namu.wiki##.WXwF99Jr
 namu.wiki##.MGIWtNnJ
