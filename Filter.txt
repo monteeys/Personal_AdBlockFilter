@@ -12,5 +12,5 @@
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
 ! 나무위키
-namu.wiki##._3FBkJMFu
-namu.wiki##.yOLKRjpY
+namu.wiki##.X1PQBxEC
+namu.wiki##.xbYZbE-q
