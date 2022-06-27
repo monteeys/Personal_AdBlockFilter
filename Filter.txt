@@ -11,5 +11,16 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! 나무위키
-namu.wiki#@?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody > tr + tr > td a[href^="/w/"] ~ span:contains(/[A-z0-9- ​]{2,}[., ]{1,}[A-z0-9 ​]{2,}/) ~ span[class]:contains(/./)):not(:has( ~ footer a[href*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
+! 아프리카TV
+play.afreecatv.com###ad_video
+play.afreecatv.com##.text_output
+play.afreecatv.com##.promotion_area
+play.afreecatv.com##.promotion_area_left
+play.afreecatv.com##.promotion_area_right
+vod-player.afreecatv.com/creatives/media/*
+play.afreecatv.com###videoLayerCover
+windroloxy.afreecatv.com/v101/hls/creatives/media/*
+vod-player001.afreecatv.com/v101/hls/creatives/media/*
+vod-player002.afreecatv.com/v101/hls/creatives/media/*
+vod-player003.afreecatv.com/v101/hls/creatives/media/*
+/vod.afreecatv.com/*
