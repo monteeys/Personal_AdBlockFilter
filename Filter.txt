@@ -25,7 +25,7 @@ vod-player002.afreecatv.com/v101/hls/creatives/media/*
 vod-player003.afreecatv.com/v101/hls/creatives/media/*
 /vod.afreecatv.com/*
 
-! 
+! 이토랜트
 etoland.co.kr###main_bn
 etoland.co.kr###container > div.right:nth-child(4) > section.right_aside_wrap:last-child > div.right_aside_panel > div.adult_bn_wrap:nth-child(5)
 etoland.co.kr###mw_basic > table:last-child > tbody > tr:nth-child(2)
