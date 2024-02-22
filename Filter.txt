@@ -11,20 +11,6 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! 아프리카TV
-play.afreecatv.com###ad_video
-play.afreecatv.com##.text_output
-play.afreecatv.com##.promotion_area
-play.afreecatv.com##.promotion_area_left
-play.afreecatv.com##.promotion_area_right
-vod-player.afreecatv.com/creatives/media/*
-play.afreecatv.com###videoLayerCover
-windroloxy.afreecatv.com/v101/hls/creatives/media/*
-vod-player001.afreecatv.com/v101/hls/creatives/media/*
-vod-player002.afreecatv.com/v101/hls/creatives/media/*
-vod-player003.afreecatv.com/v101/hls/creatives/media/*
-/vod.afreecatv.com/*
-
 ! 이토랜트
 etoland.co.kr###main_bn
 etoland.co.kr###container > div.right:nth-child(4) > section.right_aside_wrap:last-child > div.right_aside_panel > div.adult_bn_wrap:nth-child(5)
