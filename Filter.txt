@@ -10,8 +10,3 @@
 
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
-
-! 이토랜트
-etoland.co.kr###main_bn
-etoland.co.kr###container > div.right:nth-child(4) > section.right_aside_wrap:last-child > div.right_aside_panel > div.adult_bn_wrap:nth-child(5)
-etoland.co.kr###mw_basic > table:last-child > tbody > tr:nth-child(2)
