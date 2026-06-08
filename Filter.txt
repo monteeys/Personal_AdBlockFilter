@@ -11,14 +11,12 @@
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! [Threads] 팝업창 및 암전 배경 삭제
+! [Threads] 팝업창 및 배경 완전 가리기
 threads.com##div[role="presentation"]
 threads.com##div[role="dialog"]
 threads.com##div:has-text("Threads 열기")
 threads.com##div:has-text("앱의 모든 기능을 이용해보세요")
 
-! [Threads] 스크롤 잠금 강제 해제 (CSS)
-threads.com##html, body:style(overflow: auto !important; height: auto !important; position: static !important; overflow-y: auto !important;)
-
-! [Threads] 터치 조작 가로채기 차단 (애드가드 전용 자바스크립트 주입)
-threads.com##+js(ael-defuser, touchmove)
+! [Threads] 스크롤 잠금 해제 (AdGuard 규칙에 맞게 쉼표 없이 개별 분리)
+threads.com##html:style(overflow: auto !important; height: auto !important; position: static !important; pointer-events: auto !important;)
+threads.com##body:style(overflow: auto !important; height: auto !important; position: static !important; pointer-events: auto !important;)
