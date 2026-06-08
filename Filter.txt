@@ -9,12 +9,14 @@ m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.a
 ! [캐시워크]
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! [Threads] 팝업창 및 배경 완전 가리기
+! [Threads] 팝업을 포함하고 있는 최상위 전체 화면 어두운 가림막(Backdrop) 자체를 통째로 삭제
+threads.com##body > div:has(:has-text("Threads 열기"))
+threads.com##body > div:has(:has-text("앱의 모든 기능을 이용해보세요"))
+
+! [Threads] 만약의 경우를 대비한 보조 팝업 숨김 규칙
 threads.com##div[role="presentation"]
 threads.com##div[role="dialog"]
-threads.com##div:has-text("Threads 열기")
-threads.com##div:has-text("앱의 모든 기능을 이용해보세요")
 
-! [Threads] 스크롤 잠금 해제 (AdGuard 규칙에 맞게 쉼표 없이 개별 분리)
-threads.com##html:style(overflow: auto !important; height: auto !important; position: static !important; pointer-events: auto !important;)
-threads.com##body:style(overflow: auto !important; height: auto !important; position: static !important; pointer-events: auto !important;)
+! [Threads] 스크롤 잠금 강제 해제 및 모바일 터치(Touch) 기능 원상복구
+threads.com##html:style(overflow: auto !important; height: auto !important; position: initial !important; touch-action: auto !important; pointer-events: auto !important;)
+threads.com##body:style(overflow: auto !important; height: auto !important; position: initial !important; touch-action: auto !important; pointer-events: auto !important;)
