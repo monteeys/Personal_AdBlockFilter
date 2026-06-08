@@ -10,3 +10,13 @@
 
 ! 캐시워크
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
+
+! Threads.com 모바일 앱 유도 팝업 및 암전 배경 차단
+threads.com##div[role="presentation"]:has(div:has-text("Threads 열기"))
+threads.com##div[role="dialog"]:has(div:has-text("앱의 모든 기능을 이용해보세요"))
+threads.com##div:has-text("앱의 모든 기능을 이용해보세요")
+threads.com##div:has-text("Threads 열기")
+
+! 팝업 제거 후 스크롤 먹통(락) 강제 해제
+threads.com##html:style(overflow: auto !important; height: auto !important; position: static !important;)
+threads.com##body:style(overflow: auto !important; height: auto !important; position: static !important; overflow-y: auto !important;)
