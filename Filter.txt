@@ -9,9 +9,9 @@ m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.a
 ! [캐시워크]
 ||adcenter-api.cashwalk.co/v1/banner$app=com.cashwalk.cashwalk
 
-! [Threads] 흰색 팝업(dialog)을 품고 있는 최상위 배경막(까만 막) 컨테이너를 통째로 날리기
-threads.com##body > div:has(div[role="dialog"])
-threads.com##body > div:has(div[role="alertdialog"])
+! [Threads] '앱 다운로드' 문구가 포함된 거대한 최상위 배경막(까만 막)만 저격해서 삭제 (로그인 창은 제외)
+threads.com##body > div:has-text(Threads 열기)
+threads.com##body > div:has-text(앱의 모든 기능을 이용해보세요)
 
 ! [Threads] 메인 화면 스크롤 잠금 강제 해제 및 터치 기능 원상복구
 threads.com##html:style(overflow: auto !important; height: auto !important; position: static !important; touch-action: auto !important; pointer-events: auto !important;)
