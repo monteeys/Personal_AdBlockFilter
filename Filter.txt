@@ -1,7 +1,5 @@
 ! Title: monteeys
 ! Description: monteeys personal AdGuard filter
-! Version: 1.0.1
-! TimeUpdated: 2026-09-25T08:26:33Z
 ! Expires: 1 day
 ! Homepage: https://github.com/monteeys/Personal_AdBlockFilter/
 
