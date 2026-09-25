@@ -1,6 +1,7 @@
 ! Title: monteeys
 ! Expires: 1 day
 ! Homepage: https://github.com/monteeys/Personal_AdBlockFilter/
+! Description: monteeys personal AdGuard filter
 
 ! [MONTEEY] monteey.com 및 하위 도메인 전체 필터링 제외
 @@||monteey.com^$document
