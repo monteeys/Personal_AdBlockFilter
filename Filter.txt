@@ -4,7 +4,24 @@
 ! Homepage: https://github.com/monteeys/Personal_AdBlockFilter/
 
 ! [MONTEEY] monteey.com 및 하위 도메인 전체 필터링 제외
-@@||monteey.com^$document
+@@||monteey.com^$important,document
+! [개인 사이트 예외] 사이트 기능/로그인/결제 충돌 방지
+@@||plus.gov.kr^$important,document
+@@||www.gov.kr^$important,document
+@@||start.nicepay.co.kr^$important,document
+@@||www.payple.kr^$important,document
+@@||www.payletter.com^$important,document
+@@||onboarding.tosspayments.com^$important,document
+@@||mail.google.com^$important,document
+@@||banking.nonghyup.com^$important,document
+@@||hometax.go.kr^$important,document
+@@||pgonline.eximbay.com^$important,document
+@@||chatgpt.com^$important,document
+@@||signup.live.com^$important,document
+@@||challenge.spotify.com^$important,document
+@@||localhost^$important,document
+@@||drive.google.com^$important,document
+
 ! [네이버 광고 차단]
 m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.brand_wrap.api_subject_bx:nth-child(2)
 m.search.naver.com###ct > section.sc.sp_brand.ad_light_mode:nth-child(6) > div.api_subject_bx.brand_wrap:nth-child(2)
